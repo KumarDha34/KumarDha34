@@ -29,6 +29,13 @@ I am a **BCA Student** and a **Python/Django Developer** who loves building func
 
 I believe in consistent learning and coding. Here's a snapshot of my activity.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KumarDha34&show_icons=true&theme=radical&hide_border=true" alt='Github Stats' width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KumarDha34&theme=radical&hide_border=true" alt='Streak' width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarDha34&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%"/>
+</p>
 
 ---
 
