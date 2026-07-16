@@ -4,11 +4,9 @@
 
 I am a **BCA Student** and a **Python/Django Developer** who loves building functional, user-friendly web applications. I focus on creating clean backend logic and seamless user experiences, turning complex ideas into practical digital solutions.
 
-*   🎓 **Currently Studying:** BCA at Tribhuvan University (GPA: 3.70)
+*   🎓 **BCA Student passionate about technology
 *   💻 **My Stack:** Python, Django, DRF, JavaScript, PostgreSQL
-*   🌱 **Currently Learning:** Advanced API design with **Django Rest Framework** and deploying apps on **AWS** (EC2, S3).
-*   🎯 **2026 Goal:** Contribute to an open-source Django project.
-*   ✨ **Fun Fact:** I enjoy solving logic puzzles and exploring new cooking recipes.
+*   🌱 **Learning:** Advanced API design with **Django Rest Framework** and deploying apps on **AWS** (EC2, S3).
 
 ---
 
