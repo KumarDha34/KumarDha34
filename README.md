@@ -25,17 +25,6 @@ I am a **BCA Student** and a **Python/Django Developer** who loves building func
 
 ---
 
-### 📂 Featured Projects
-
-Here are some of the projects I'm most proud of, each solving a real-world need.
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **📚 Online BookStore** | A full-featured e-commerce platform for books. Includes user auth, cart/wishlist, order history, and a book recommendation engine using **Matrix Factorization**. | `Django` `MySQL` `JavaScript` |
-| **✅ Task Manager** | A dynamic, interactive to-do app for boosting productivity. Features real-time task status tracking (TODO, INPROGRESS, DONE) with a clean UI. | `Django` `MySQL` `JavaScript` |
-| **🍳 Recipe Web App** | A comprehensive platform to manage and discover recipes. Users can perform full CRUD operations, search, and filter recipes by category. | `Django` `PostgreSQL` `Bootstrap` `Tailwind` |
-| **📬 Mini Postman** | A lightweight, web-based tool for testing REST APIs. Supports GET, POST, PUT, DELETE requests with custom headers and JSON body, displaying real-time responses. | `JavaScript` `Fetch API` `HTML` `CSS` |
-
 ---
 
 ### 📊 GitHub Stats & Activity
@@ -57,9 +46,6 @@ I believe in consistent learning and coding. Here's a snapshot of my activity.
 I'm always open to discussing new projects, collaboration opportunities, or just having a chat about tech.
 
 *   📧 **Email:** [dhamalakumar834@gmail.com](mailto:dhamalakumar834@gmail.com)
-*   📞 **Phone:** [+977-9765299096](tel:+9779765299096)
-*   💼 **LinkedIn:** [Your LinkedIn URL]
-*   🌍 **Portfolio:** [Your Portfolio URL - WIP]
 
 ---
 
