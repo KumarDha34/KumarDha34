@@ -77,3 +77,28 @@ Frontend                  → HTML • CSS • JavaScript • Bootstrap • Tail
 Version Control           → Git • GitHub
 Cloud                     → AWS EC2 • AWS S3
 Development Tools         → VS Code • Postman
+```
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KumarDha34&show_icons=true&theme=radical&hide_border=true&rank_icon=github"
+    alt="Kumar Dhamala's GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=KumarDha34&theme=radical&hide_border=true"
+    alt="Kumar Dhamala's GitHub Streak"
+    width="48%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarDha34&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
+    width="40%"
+  />
+</p>
